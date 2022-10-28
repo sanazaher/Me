@@ -1,0 +1,15 @@
+C:\Users\Me\source\repos\WordStatistics\obj\Debug\net6.0\WordStatistics.csproj.AssemblyReference.cache
+C:\Users\Me\source\repos\WordStatistics\obj\Debug\net6.0\WordStatistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Me\source\repos\WordStatistics\obj\Debug\net6.0\WordStatistics.AssemblyInfoInputs.cache
+C:\Users\Me\source\repos\WordStatistics\obj\Debug\net6.0\WordStatistics.AssemblyInfo.cs
+C:\Users\Me\source\repos\WordStatistics\obj\Debug\net6.0\WordStatistics.csproj.CoreCompileInputs.cache
+C:\Users\Me\source\repos\WordStatistics\bin\Debug\net6.0\WordStatistics.exe
+C:\Users\Me\source\repos\WordStatistics\bin\Debug\net6.0\WordStatistics.deps.json
+C:\Users\Me\source\repos\WordStatistics\bin\Debug\net6.0\WordStatistics.runtimeconfig.json
+C:\Users\Me\source\repos\WordStatistics\bin\Debug\net6.0\WordStatistics.dll
+C:\Users\Me\source\repos\WordStatistics\bin\Debug\net6.0\WordStatistics.pdb
+C:\Users\Me\source\repos\WordStatistics\obj\Debug\net6.0\WordStatistics.dll
+C:\Users\Me\source\repos\WordStatistics\obj\Debug\net6.0\refint\WordStatistics.dll
+C:\Users\Me\source\repos\WordStatistics\obj\Debug\net6.0\WordStatistics.pdb
+C:\Users\Me\source\repos\WordStatistics\obj\Debug\net6.0\WordStatistics.genruntimeconfig.cache
+C:\Users\Me\source\repos\WordStatistics\obj\Debug\net6.0\ref\WordStatistics.dll
